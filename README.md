@@ -13,6 +13,7 @@ So it's first of the first version EVER.
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ! WRITE YOUR DESKTOP PATH or JUST THE USER NAME IN THE CODE
+
                         WHERE?
                           
 ! AT THE BOTTOM OF THE CODE THERE IS AN IF STATEMENT:
@@ -60,8 +61,8 @@ Dies ist noch die allererste Version.
 
                    TURKCE
 
-Kod esasinda cok cig
-Bu ilk ama ilk versiyon.
+Kod henuz kabataslak halinde.
+Ilk versiyonu
 -----------------------------------------------------------
 -
 -      KOD GUNCELLENECEK VE ACIKLAMALAR EKLENECEK
@@ -71,8 +72,8 @@ Bu ilk ama ilk versiyon.
 ###########################################################
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-! DESKTOP PATHINIZI YAZIN VEYA USERNAME YAZIN
-                        NEREYE?
+! DESKTOP PATHINIZI YAZIN VEYA USERNAME YAZMAYI UNUTMAYIN
+                        NEREYE YAZILMALI?
                           
 ! KODUN SONUNDA BIR IF PARCASI VAR:
   if abs((sum1-sum2))>10000:
@@ -84,5 +85,5 @@ Bu ilk ama ilk versiyon.
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ############################################################                      
 
-Nasıl calisir?
-Webcamde kucuk bır degısıklık oldugunda resımı kaydeder.
+Nasil calisir?
+Webcamde bir hareketlilik algilandiginda o anki goruntuyu kaydeder. 
