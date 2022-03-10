@@ -12,6 +12,7 @@ So it's first of the first version EVER.
 ###########################################################
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
 ! WRITE YOUR DESKTOP PATH or JUST THE USER NAME IN THE CODE
 
                         WHERE?
@@ -22,13 +23,14 @@ So it's first of the first version EVER.
             EITHER REPLACE !!!! WITH YOUR USERNAME
                         OR
             USE TOTALLY DIFFERENT PATH
+
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ############################################################                      
 
-How it works?
+-How it works?
 
-It simply saves image if a certain amount of change happened in the webcam.
++It simply saves image if a certain amount of change happened in the webcam.
 
                              DEUTSCH
 
@@ -40,6 +42,7 @@ Dies ist noch die allererste Version.
 -      
 
 ! TIPP DEINER DESKTOP PATH oder DEINER USER NAME IN DEM CODE
+
                         WOHIN?
                           
 ! ES GIBT EIN WENN(IF AUF ENGLISCH) TEIL AM ENDE DES CODES:
@@ -48,21 +51,24 @@ Dies ist noch die allererste Version.
             ERSETZE !!!! MIT DEINEM USER NAME
                         ODER
                   VERWEND NEU PATH
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-  Wie kann das funktionieren?
-  Wie kann ich verwenden?
-  Gibt es noch etwas was ich tun sollte?
 
-  Nein, einfach öff den code.
-  Es nur spart das Bild wenn eine bischen Veränderung in der Webcam gespürt.
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+  -Wie kann das funktionieren?
+
+  -Wie kann ich verwenden?
+
+  -Gibt es noch etwas was ich tun sollte?
+
+  +Nein, einfach öff den code.
+  +Es nur spart das Bild wenn eine bischen Veränderung in der Webcam gespürt.
   
 ############################################################
 
                    TURKCE
 
 Kod henuz kabataslak halinde.
-Ilk versiyonu
+Ilk yazılan versiyon yüklendi.
 -----------------------------------------------------------
 -
 -      KOD GUNCELLENECEK VE ACIKLAMALAR EKLENECEK
@@ -72,7 +78,9 @@ Ilk versiyonu
 ###########################################################
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
 ! DESKTOP PATHINIZI YAZIN VEYA USERNAME YAZMAYI UNUTMAYIN
+
                         NEREYE YAZILMALI?
                           
 ! KODUN SONUNDA BIR IF PARCASI VAR:
@@ -81,9 +89,11 @@ Ilk versiyonu
             YA !!!! LARI USERNAME ILE DEGISTIRIN
                         VEYA
             YENI BIR PATH KULLANIN
+
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ############################################################                      
 
-Nasil calisir?
-Webcamde bir hareketlilik algilandiginda o anki goruntuyu kaydeder. 
+-Nasil calisir?
+
++Webcamde bir hareketlilik algilandiginda o anki goruntuyu kaydeder. 
