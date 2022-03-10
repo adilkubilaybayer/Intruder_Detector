@@ -9,25 +9,17 @@ So it's first of the first version EVER.
 -      
 -----------------------------------------------------------      
 
-###########################################################
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
-! WRITE YOUR DESKTOP PATH or JUST THE USER NAME IN THE CODE
+WRITE YOUR DESKTOP PATH or JUST THE USER NAME IN THE CODE
 
                         WHERE?
                           
-! AT THE BOTTOM OF THE CODE THERE IS AN IF STATEMENT:
+AT THE BOTTOM OF THE CODE THERE IS AN IF STATEMENT:
   if abs((sum1-sum2))>10000:
         cv2.imwrite(r'C:/Users/ !!!! /Desktop/intruder.png', prev_frame)     
             EITHER REPLACE !!!! WITH YOUR USERNAME
                         OR
             USE TOTALLY DIFFERENT PATH
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-############################################################                      
-
+                    
 -How it works?
 
 +It simply saves image if a certain amount of change happened in the webcam.
@@ -41,18 +33,16 @@ Dies ist noch die allererste Version.
 -      CODE WIRD AKTUALISIERT UND ERKLÄRUNG WIRD HINZUGEFÜGT
 -      
 
-! TIPP DEINER DESKTOP PATH oder DEINER USER NAME IN DEM CODE
+TIPP DEINER DESKTOP PATH oder DEINER USER NAME IN DEM CODE
 
                         WOHIN?
                           
-! ES GIBT EIN WENN(IF AUF ENGLISCH) TEIL AM ENDE DES CODES:
+ES GIBT EIN WENN(IF AUF ENGLISCH) TEIL AM ENDE DES CODES:
   if abs((sum1-sum2))>10000:
         cv2.imwrite(r'C:/Users/ !!!! /Desktop/intruder.png', prev_frame)     
             ERSETZE !!!! MIT DEINEM USER NAME
                         ODER
                   VERWEND NEU PATH
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
   -Wie kann das funktionieren?
 
@@ -63,8 +53,6 @@ Dies ist noch die allererste Version.
   +Nein, einfach öff den code.
   +Es nur spart das Bild wenn eine bischen Veränderung in der Webcam gespürt.
   
-############################################################
-
                    TURKCE
 
 Kod henuz kabataslak halinde.
@@ -75,25 +63,19 @@ Ilk yazılan versiyon yüklendi.
 -      
 -----------------------------------------------------------      
 
-###########################################################
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-! DESKTOP PATHINIZI YAZIN VEYA USERNAME YAZMAYI UNUTMAYIN
+
+DESKTOP PATHINIZI YAZIN VEYA USERNAME YAZMAYI UNUTMAYIN
 
                         NEREYE YAZILMALI?
                           
-! KODUN SONUNDA BIR IF PARCASI VAR:
+KODUN SONUNDA BIR IF PARCASI VAR:
   if abs((sum1-sum2))>10000:
         cv2.imwrite(r'C:/Users/ !!!! /Desktop/intruder.png', prev_frame)     
             YA !!!! LARI USERNAME ILE DEGISTIRIN
                         VEYA
             YENI BIR PATH KULLANIN
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-############################################################                      
-
+0               
 -Nasil calisir?
 
 +Webcamde bir hareketlilik algilandiginda o anki goruntuyu kaydeder. 
