@@ -51,7 +51,7 @@ while True:
 ##    print ("sum diff :")
 ##    print (abs((sum1-sum2)))
 ##    print("sum1: /n")
-    print(sum1)
+##    print(sum1)
 ##    print("sum2: /n")
 ##    print(sum2)
 #!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
@@ -59,6 +59,7 @@ while True:
 #!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!    
     if abs((sum1-sum2))>10000:
         cv2.imwrite(r'C:/Users/ #### /Desktop/intruder.png', prev_frame)
+        print("Intruder Found")
 ##        cv2.imshow("intruder", prev_frame)
 ##    list1.append
     
